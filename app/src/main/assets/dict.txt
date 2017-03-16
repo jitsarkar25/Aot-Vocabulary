@@ -1,0 +1,177 @@
+{
+	"words": [{
+		"word": "admission",
+		"pos": "noun",
+		"spokenfreq": null,
+		"writtenfreq": "W3",
+		"meaning": [{
+			"mean": "a statement in which you admit that something is true or that you have done something wrong",
+			"synonyms": "confession",
+			"sentences": "The Senator’s admission that he had lied to Congress shocked many Americans.$Silence is often interpreted as an admission of guilt. Reese, by his own admission, lacks the necessary experience.",
+			"antonyms": null
+		}, {
+			"mean": "permission given to someone to enter a building or place, or to become a member of a school, club etc",
+			"synonyms": "access",
+			"sentences": "No admission after 10 pm.$The young men tried to enter a nightclub but were refused admission.$Women gained admission to the club only recently.",
+			"antonyms": null
+		}]
+	}, {
+		"word": "adult",
+		"pos": "noun",
+		"spokenfreq": "S2",
+		"writtenfreq": "W3",
+		"meaning": [{
+			"mean": "a fully-grown person, or one who is considered to be legally responsible for their actions",
+			"synonyms": "grownup",
+			"sentences": "Some children find it difficult to talk to adults.",
+			"antonyms": "child$youth$teen"
+		}, {
+			"mean": "a fully-grown animal ",
+			"synonyms": null,
+			"sentences": "The adults have white bodies and grey backs.",
+			"antonyms": null
+		}]
+	}, {
+		"word": "adult",
+		"pos": "adjective",
+		"spokenfreq": null,
+		"writtenfreq": "W3",
+		"meaning": [{
+			"mean": "fully grown or developed [used only before a noun]",
+			"synonyms": "ripe, mature",
+			"sentences": "He lived most of his adult life in Scotland.$Marriage, though not the social imperative it once was, still stands for a major rite of passage into adult life.$Louis, Ray has spent most of his adult life behind bars.$A native of Richmond, he lived much of his adult life bouncing around the West Coast via train or sometimes car.",
+			"antonyms": null
+		}, {
+			"mean": "typical of an adult’s behaviour or of the things adults do",
+			"synonyms": null,
+			"sentences": "That wasn’t very adult of you.",
+			"antonyms": "immature"
+		}]
+	}, {
+		"word": "abandon",
+		"pos": "verb",
+		"spokenfreq": null,
+		"writtenfreq": "W3",
+		"meaning": [{
+			"mean": "to leave someone, especially someone you are responsible for",
+			"synonyms": null,
+			"sentences": "How could she abandon her own child?",
+			"antonyms": null
+		}, {
+			"mean": "to go away from a place, vehicle etc permanently, especially because the situation makes it impossible for you to stay",
+			"synonyms": "leave",
+			"sentences": "We had to abandon the car and walk the rest of the way.$Fearing further attacks, most of the population had abandoned the city.",
+			"antonyms": null
+		}, {
+			"mean": "to stop doing something because there are too many problems and it is impossible to continue",
+			"synonyms": null,
+			"sentences": "The game had to be abandoned due to bad weather.$They abandoned their attempt to recapture the castle.$Because of the fog they abandoned their idea of driving.",
+			"antonyms": null
+		}, {
+			"mean": " to stop having a particular idea, belief, or attitude",
+			"synonyms": null,
+			"sentences": "They were accused of abandoning their socialist principles.$Rescuers had abandoned all hope of finding any more survivors.",
+			"antonyms": null
+		}]
+	}, {
+		"word": "ability",
+		"pos": "noun",
+		"spokenfreq": "S2",
+		"writtenfreq": "W1",
+		"meaning": [{
+			"mean": "the state of being able to do something",
+			"synonyms": "countable",
+			"sentences": "the ability to walk$The health center serves all patients, regardless of their ability to pay.",
+			"antonyms": null
+		}, {
+			"mean": "someone’s level of skill at doing something",
+			"synonyms": "countable",
+			"sentences": "The test measures your mathematical ability.$He showed his abilities as a leader.$There are musicians of all abilities.",
+			"antonyms": null
+		}]
+	}, {
+		"word": "able",
+		"pos": "adjective",
+		"spokenfreq": "S1",
+		"writtenfreq": "W1",
+		"meaning": [{
+			"mean": "clever or good at doing something",
+			"synonyms": null,
+			"sentences": "She was widely regarded as one of the most able members of the president's staff.$Mrs Thomas is a very able teacher.$Currently, such creatures are not able to converse, creating instead relationships closer to the family pet.$It was being moved, placed where she wanted him, and there was nothing he was able to do about it.$Apart from that, if you're able to get about then clearly it's helpful if there's no traffic.$Most preschool children are well able to issue instructions.$They should be able to offer you the support you need at an academic and personal level.$He would not have been able to put a precise age on the skeleton.$She needs to be able to reflect on her own behavior, feelings, and tendencies more than the average child.$Jasper had said he would be able to spot me in a crowd, to pick me out at once.",
+			"antonyms": null
+		}, {
+			"mean": "someone’s level of skill at doing something",
+			"synonyms": "countable",
+			"sentences": "The test measures your mathematical ability.$He showed his abilities as a leader.$There are musicians of all abilities.",
+			"antonyms": null
+		}]
+	}, {
+		"word": "about",
+		"pos": "preposition",
+		"spokenfreq": "S1",
+		"writtenfreq": "W1",
+		"meaning": [{
+			"mean": "concerning or relating to a particular subject",
+			"synonyms": null,
+			"sentences": "a book about politics$ She said something about leaving town.$ He lied about his age.$ About that car of yours. How much are you selling it for?$ What’s he on about (=talking about)?$ It’s about Tommy, doctor. He’s been sick again.$ Naturally, my mother wanted to know all about it",
+			"antonyms": null
+		}, {
+			"mean": "used to show why someone is angry, happy, upset etc",
+			"synonyms": null,
+			"sentences": "I’m really worried about Jack.$  She’s upset about missing the party.",
+			"antonyms": null
+		}, {
+			"mean": " in many different directions within a particular place, or in different parts of a place",
+			"synonyms": "around, round",
+			"sentences": "We spent the whole afternoon walking about town.$ Books were scattered about the room.",
+			"antonyms": null
+		}, {
+			"mean": "in the nature or character of a person or thing",
+			"synonyms": null,
+			"sentences": "There’s something really strange about Liza.$ What I like about the job is that it’s never boring.",
+			"antonyms": null
+		}]
+	}, {
+		"word": "baby",
+		"pos": "noun",
+		"spokenfreq": "S1",
+		"writtenfreq": "W1",
+		"meaning": [{
+			"mean": "a very young child who has not yet learned to speak or walk",
+			"synonyms": null,
+			"sentences": "The baby is crying.$ She gave birth to a baby on Thursday.$ What do you think of your new baby sister?",
+			"antonyms": null
+		}, {
+			"mean": "a very young animal",
+			"synonyms": null,
+			"sentences": null,
+			"antonyms": null
+		}, {
+			"mean": "a type of vegetable which is grown to be much smaller than usual or is eaten before it has grown to its normal size ",
+			"synonyms": null,
+			"sentences": null,
+			"antonyms": null
+		}, {
+			"mean": "a younger child in a family, often the youngest",
+			"synonyms": null,
+			"sentences": null,
+			"antonyms": null
+		}]
+	}, {
+		"word": "cabinet",
+		"pos": "noun",
+		"spokenfreq": "S2",
+		"writtenfreq": "W2",
+		"meaning": [{
+			"mean": "(British English) the politicians with important positions in a government who meet to make decisions or advise the leader of the government",
+			"synonyms": null,
+			"sentences": "a cabinet meeting$ a member of the Cabinet",
+			"antonyms": null
+		}, {
+			"mean": "a piece of furniture with doors and shelves or drawers, used for storing or showing things",
+			"synonyms": "cupboard",
+			"sentences": "the medicine cabinet",
+			"antonyms": null
+		}]
+	}]
+}
